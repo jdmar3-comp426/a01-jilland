@@ -1,21 +1,28 @@
 h1 {
     font-family: "Times New Roman", Times, serif;
-    font-weight: bold;
+    font-style: bold;
 
 }
 
 h3 {
-    background-color: #1DF804;
+    background-color: #37962c;
     color: #ffffff;
     font-family:'Courier New', Courier, monospace;
     border-style: groove;
 }
 p {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #ffffff;
     border-style: solid;
-    border-color: #1DF804;
+    border-color: #37962c;
     line-height: 1.0;
+    color: #ffffff;
+}
+
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 100px;
+    margin-right:150px;
+    margin-left: 150px;
+    color: #ffffff;
 }
 
 body h1 {
@@ -28,10 +35,15 @@ body {
 }
 
 #buttons {
-    background-color: #000000;
+    background-color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
     border-style: solid;
     border-color: #ffffff;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right:150px;
+    margin-left: 150px;
     text-align: center;
 }
 
@@ -40,16 +52,13 @@ body {
 }
 
 a {
-    color: #1DF804;
+    color: #ffffff;
 }
 
 a:link {
-    background-color: #1DF804
+    background-color: #37962c
 }
 
-a:visited {
-    background-color: #F804C9
-}
 a:hover {
     background-color: #F86D04
 }
