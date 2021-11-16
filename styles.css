@@ -1,0 +1,55 @@
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 900;
+
+}
+
+h3 {
+    background-color: #37962c;
+    color: #ffffff;
+    font-family:'Courier New', Courier, monospace;
+    border-style: groove;
+}
+p {
+    border-style: solid;
+    border-color: #37962c;
+    line-height: 1.0;
+    color: #ffffff;
+}
+
+#bold {
+    color: #9c1414;
+}
+
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 100px;
+    margin-right:150px;
+    margin-left: 150px;
+    color: #ffffff;
+}
+
+body h1 {
+    background-color: #ffffff; 
+}
+
+body {
+    background-color: #000000;
+    font-size: 100%
+}
+
+.solid {
+    border-width: 4px;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:link {
+    background-color: #37962c
+}
+
+a:hover {
+    background-color: #F86D04
+}
